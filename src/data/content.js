@@ -12,8 +12,8 @@ export const content = {
       gallery: "Galerie",
     },
     profile: {
-      name: "Dr. GATCHO NGOUZE MODESTTE",
-      title: "Consultant en Financement de la santé et Système de santé ",
+      name: "Dr. GATCHO NGOUZE MODESTE",
+      title: "Consultant en Financement de la santé et Systèmes de santé ",
       subtitle: "Médecin · Expert en santé publique · Médecin de l'OMS",
       shortBio:
         "Médecin de formation, j'accompagne les gouvernements, les organisations internationales et les ONG dans la conception de systèmes de financement de la santé et de protection sociale.",
